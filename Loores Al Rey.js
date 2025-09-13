@@ -1,4 +1,3 @@
-console.log('hymn!');
 {
   "lang": "es",
   "header": {
