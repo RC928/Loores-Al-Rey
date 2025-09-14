@@ -11363,153 +11363,258 @@
     },
     {
       "num": "506",
-      "title": "¡Santo!",
+      "title": "En la tierra adonde Iré",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "En la tierra adonde iré",
+            "muerte y llanto no habrá;",
+            "gozo eterno allí tendré,",
+            "y no hay noche allá."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Puertas bellas se abrirán",
+            "en la Santa Ciudad;",
+            "calles áureas se verán,",
+            "y no hay noche allá."
+          ],
+          [
+            "Para siempre viviré",
+            "en mí amado hogar;",
+            "agua viva beberé,",
+            "y no hay noche allá."
+          ],
+          [
+            "Luz de sol jamás habrá",
+            "en el célico hogar.",
+            "El Cordero luz será,",
+            "y no hay noche allá."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Dios las penas quitará,",
+          "muerte no hay ni más dolor;",
+          "tiempo no se contara,",
+          "y no hay noche allá."
+        ]
       }
     },
     {
       "num": "507",
-      "title": "¡Santo!",
+      "title": "En la célíca morada",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "En la célica morada",
+            "de las cumbres del Edén,",
+            "donde toda voz ensalza",
+            "al Autor de todo bien,",
+            "¿el pesar recordaremos,",
+            "y la triste nublazón,",
+            "tantas luchas del Espíritu",
+            "con el débil corazón?"
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Oración, deberes, penas,",
+            "vías que anduvimos ya,",
+            "poseyendo las riquezas",
+            "que Jesús nos guarda allá,",
+            "¿la memoria retendremos",
+            "del pretérito dolor,",
+            "del camino largo, aspérrimo,",
+            "con sus luchas, su temor?"
+          ],
+          [
+            "La bondad con que nos mira",
+            "sin cansarse cuando ve",
+            "poco fruto en nuestra vida,",
+            "y tan débil nuestra fe,",
+            "¿nos acordaremos de ella",
+            "en aquel dichoso hogar,",
+            "de eternal aurora espléndida",
+            "e inefable bienestar?"
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Sí, allí será gratísímo",
+          "conocer y alabar",
+          "al Pastor fiel y benéfico",
+          "que nos ayudó a llegar."
+        ]
       }
     },
     {
       "num": "508",
-      "title": "¡Santo!",
+      "title": "Al bello hogar",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Al bello hogar, allí a morar,",
+            "de todo mal exentos,",
+            "a descansar sin un pesar,",
+            "iremos muy contentos."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Encontrarán los que allí van",
+            "las calles de oro puro,",
+            "gloria y solaz, eterna paz,",
+            "el don de Dios, seguro."
+          ],
+          [
+            "Si al sufrir y combatir,",
+            "cantáis la triste endecha,",
+            "a vista alzad: tenéis ciudad;",
+            "seguid la vía estrecha"
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Por la mansión feliz",
+          "que nos invita",
+          "el corazón cristiano",
+          "fiel palpita."
+        ]
       }
     },
     {
       "num": "509",
-      "title": "¡Santo!",
+      "title": "Todo es bello",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Todo es bello en el hogar cuando hay amor;",
+            "nada allí podrá dañar cuando hay amor.",
+            "Paz y gozo se hallarán, fuerzas se restaurarán",
+            "y el Señor será el Guardián cuando hay amor."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Hasta en chozas hay placer cuando hay amor",
+            "Odio y mal no puede haber cuando hay amor",
+            "Cada rosa en el jardín, los claveles y el jazmín",
+            "a mis males ponen fin cuando hay amor."
+          ],
+          [
+            "Tiene el labio su canción cuando hay amor;",
+            "llega el cielo al corazón cuando hay amor.",
+            "El riacho al murmurar y las aves al cantar",
+            "nos inspiran sin cesar cuando hay amor."
+          ],
+          [
+            "Mi Jesús, te ruego hoy más de ese amor.",
+            "Ya que tuyo siempre soy, dame ese amor.",
+            "Los que tienes en tu grey, siempre andan en tu Ley",
+            "y te honran como Rey por tu gran amor."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Con amor, con amor,",
+          "todo es bello en derredor cuando hay amor."
+        ]
       }
     },
     {
       "num": "510",
-      "title": "¡Santo!",
+      "title": "Hogar de mis recuerdos",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Hogar de mis recuerdos,",
+            "a ti volver anhelo;",
+            "no hay sitio bajo el cielo",
+            "más dulce que el hogar.",
+            "Posara yo en palacios,",
+            "corriendo el mundo entero,",
+            "a todos yo prefiero mi hogar,",
+            "mi dulce hogar."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Allí la luz del cielo",
+            "desciende más serena;",
+            "de mil delicias llena",
+            "la dicha del hogar,",
+            "Allí las horas corren",
+            "más breves y gozosas;",
+            "memorias muy dichosas",
+            "nos hablan sin cesar."
+          ],
+          [
+            "Más quiero que placeres",
+            "que brinda tierra extraña,",
+            "volver a la cabaña",
+            "de mi tranquilo hogar.",
+            "Allí mis pajarillos",
+            "me alegran con sus cantos;",
+            "allí con mil encantos",
+            "está la dulce paz."
           ]
         ],
-        "refrain": []
+        "refrain": [
+            "¡Mi hogar, mi hogar!",
+            "No hay sitio bajo el cielo",
+            "más dulce que mi hogar."
+        ]
       }
     },
     {
       "num": "511",
-      "title": "¡Santo!",
+      "title": "Guía a ti, Señor",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Guía a ti, Señor, guía a ti",
+            "los hijos tiernos que me has dado a mi.",
+            "¡Oh, por tu grande amor. guíalos. Dios, a ti!"
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Cuando del mundo vean el esplendor,",
+            "entonces guárdalos del tentador.",
+            "De sus engaños ¡oh, guíalos, Dios, a ti!"
+          ],
+          [
+            "Los niños a salvar vino Jesús,",
+            "y anduvo sin pecar hasta la cruz.",
+            "Suplico por tu amor: ¡guíalos, Dios, a ti!"
+          ],
+          [
+            "Aunque me falte fe quiero creer",
+            "que este precioso don quieres tener;",
+            "tiernos de corazón, hoy los vuelvo a ti."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Guíalos, Dios, a ti,",
+          "guíalos, sí."
+        ]
       }
     },
     {
       "num": "512",
-      "title": "¡Santo!",
+      "title": "Perfecto amor",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Perfecto amor del cielo descendiendo,",
+            "por ti, Señor, enviado a este hogar;",
+            "por este don tan noble y venturoso",
+            "las gracias hoy venímoste a dar."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Perfecto amor, ¡oh Dios!, tu don gratuito",
+            "sea abundante, y de este hogar solaz;",
+            "sagrado amor que sea para siempre",
+            "fuente de gozo, esperanza y paz."
+          ],
+          [
+            "Perfecto amor, ¿qué más desea el alma,",
+            "de bendiciones rebosando ya?",
+            "Amor que ensalce, de tu amor la gloria,",
+            "y que perdure por la eternidad."
           ]
         ],
         "refrain": []
@@ -11517,131 +11622,208 @@
     },
     {
       "num": "513",
-      "title": "¡Santo!",
+      "title": "Cristo, yo te seguiré",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Cristo, yo te seguiré;",
+            "óigote llamándome;",
+            "vengo a ti con fe y amor,",
+            "y a tu mansión, Señor."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Mis ojuelos no verán;",
+            "mis piecitos errarán;",
+            "débil me hallo en el vaivén;",
+            "mas tú eres mi sostén."
+          ],
+          [
+            "Cuando solo y triste estoy",
+            "siempre a ti, Jesús, yo voy;",
+            "y qué gozo es para mí,",
+            "seguirte siempre a ti!"
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Yo te seguiré, yo te seguiré,",
+          "yo te seguiré, bendito Salvador."
+        ]
       }
     },
     {
       "num": "514",
-      "title": "¡Santo!",
+      "title": "De su trono, mi Jesús",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "De su trono mi Jesús,",
+            "a morir aqui bajó,",
+            "y clavado en la cruz,",
+            "mis pecados él expió."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Bien me quiere el Salvador",
+            "que sufrió por mi maldad.",
+            "Te bendigo, mi Señor,",
+            "reconozco tu bondad!"
+          ],
+          [
+            "Guarda fiel mi corazón",
+            "tú, que velas sobre mi,",
+            "y con toda devoción",
+            "haz que viva yo por ti."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Si Cristo me ama;",
+          "Si Cristo me ama;",
+          "Si Cristo me ama,",
+          "la Biblia dícelo."
+        ]
       }
     },
     {
       "num": "515",
-      "title": "¡Santo!",
+      "title": "En este bello día",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "En este bello día de gozo, amor y luz,",
+            "cantamos alabanzas a nuestro Rey, Jesús."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Amólos a los niños estando aún aquí,",
+            "y ahora en los cielos los ama siempre así."
+          ],
+          [
+            "La historia de su vida nos gusta escuchar;",
+            "su amor y mansedumbre queremos imitar."
+          ],
+          [
+            "¡Oh! Salvador bendito, rogámoste a ti",
+            "nos guardes del maligno en nuestra senda aquí."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Cantad cantad",
+          "A Cristo dad loor",
+          "Cantad cantad",
+          "La gloria del Señor."
+        ]
       }
     },
     {
       "num": "516",
-      "title": "¡Santo!",
+      "title": "Cuando venga Jesucristo",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Cuando venga Jesucristo",
+            "en busca de joyas,",
+            "todo niño redimido",
+            "su gema será."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Quiere Cristo en su corona",
+            "brillantes preseas;",
+            "cada gema que le adorna",
+            "con sangre compró."
+          ],
+          [
+            "El escoge por tesoros",
+            "los niños amantes,",
+            "y en su seno los corderos",
+            "acoge Jesús."
+          ],
+          [
+            "Si los niños y las niñas",
+            "acuden a Cristo,",
+            "bellas joyas, escogidas,",
+            "serán para él."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Como estrellas que brillan",
+          "son los niños que le aman;",
+          "son tesoros que adornan",
+          "al Rey y Señor."
+        ]
       }
     },
     {
       "num": "517",
-      "title": "¡Santo!",
+      "title": "¡Cuánto me alegra!",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "¡Cuánto me alegra que nuestro",
+            "Señor diera su vida por el pecador!",
+            "Hizo sin par maravillas aquí,",
+            "y la más grande es que me ama a mí."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Aunque vagaba olvidándome de él,",
+            "siempre siguióme porque siempre es fiel;",
+            "presto a sus brazos amantes volví",
+            "al recordar que Jesús me ama a mí."
+          ],
+          [
+            "Cuando en el cielo ver pueda a Jesús,",
+            "ya revestido de gloriosa luz,",
+            "entonaré mi himno eterno allí:",
+            "¡Qué maravilla! ¡Jesús me ama a mí!"
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "¡Qué maravilla! Me ama Jesús,",
+          "me ama Jesús, me ama Jesús.",
+          "¡Qué maravilla! Me ama Jesús;",
+          "sí, me ama aun a mí."
+        ]
       }
     },
     {
       "num": "518",
-      "title": "¡Santo!",
+      "title": "Cuando leo en la Biblia",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Cuando leo en la Biblia",
+            "como llama Jesús",
+            "y bendice a los niños con amor,",
+            "yo también quisiera estar,",
+            "y con ellos descansar",
+            "en los brazos del tierno Salvador."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Ver quisiera sus manos",
+            "sobre mí reposar,",
+            "cariñosos abrazos de él sentir;",
+            "su mirada disfrutar,",
+            "las palabras escuchar:",
+            "“A los niños dejad a mí venir”."
+          ],
+          [
+            "¡Cuántos hay que no saben",
+            "de la bella mansión,",
+            "y no quieren a Cristo recibir!",
+            "Les quisiera yo mostrar",
+            "que para ellos hay lugar",
+            "en el cielo, do los convida a ir."
+          ],
+          [
+            "Yo espero aquel día",
+            "venturoso, sin fin,",
+            "el más grande, el más lúcido, el mejor,",
+            "cuando de toda nación,",
+            "niños mil sin distinción",
+            "a los brazos acudan del Señor."
           ]
         ],
         "refrain": []
@@ -11654,104 +11836,167 @@
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Es el amor divino",
+            "mi gozo y mi placer",
+            "allana mi camino",
+            "y me hace obedecer."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Del triste mundo",
+            "lleno de muerte y dolor,",
+            "quisiera yo llevar a Dios",
+            "un pobre pecador."
+          ],
+          [
+            "Y cuando vaya al cielo",
+            "con Cristo, mi Señor,",
+            "allí por siempre cantarte",
+            "de Dios y de su amor."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Dios es amor, soy su pequeñuelo;",
+          "quiero ser santo como es él.",
+          "Es el amor divino mi gozo y mi placer,",
+          "allana mí camino y me hace obedecer."
+        ]
       }
     },
     {
       "num": "520",
-      "title": "¡Santo!",
+      "title": "Yo temprano busco a Cristo",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Yo temprano busco a Cristo,",
+            "cada día aprendo de él;",
+            "por la senda angosta sigo",
+            "sus pisadas, firme y fiel."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Dondequiera que él me mande,",
+            "yo con gozo presto voy;",
+            "sé su voluntad divina",
+            "aunque niño tierno soy."
+          ],
+          [
+            "A la puerta Cristo aguarda:",
+            "él me quiere libertar;",
+            "yo, confiando en su promesa,",
+            "hoy ínvítole a entrar."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Cristo me ama; Cristo me ama;",
+          "Cristo me ama, esto sé:",
+          "él murió para salvarme;",
+          "yo, ferviente, le amaré."
+        ]
       }
     },
     {
       "num": "521",
-      "title": "¡Santo!",
+      "title": "Bellas las manitas son",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Bellas las manitas son",
+            "que obedecen a Jesús;",
+            "bellos ojos los que están",
+            "llenos de célica luz."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Hizo las manitas Dios,",
+            "porque a él podrán servir",
+            "Hizo el tierno corazón en su",
+            "servicio a latir."
+          ],
+          [
+            "Toda hora debe orar",
+            "cada día el Salvador,",
+            "y los pies habrán de andar",
+            "siempre siguiendo al Señor."
+          ],
+          [
+            "Cuanto puedas tú hacer,",
+            "Cristo te lo exigirá;",
+            "haz, pues, de ello tu placer",
+            "con el poder que él te da."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Bellas, sí, bellas las manos son,",
+          "que obedecen a Jesús;",
+          "bellos los ojos que siempre están",
+          "llenos de célica luz."
+        ]
       }
     },
     {
       "num": "522",
-      "title": "¡Santo!",
+      "title": "Tu reino amo",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Tu reino amo, ¡oh Dios!,",
+            "tu casa de oración,",
+            "y al pueblo que en Jesús halló",
+            "completa redención."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Tu iglesia, mí Señor,",
+            "su templo, su ritual,",
+            "la iglesia que guiando",
+            "estás con mano paternal."
+          ],
+          [
+            "Por ella es mí oración,",
+            "mis lágrimas, mi amor;",
+            "solicitud, cuidado, afán,",
+            "por ella son, Señor."
+          ],
+          [
+            "Un gozo sin igual",
+            "me causa en ella estar,",
+            "y andando aquí, su comunión",
+            "anhelo disfrutar,"
+          ],
+          [
+            "Tu iglesia durará,",
+            "oh Dios, cual tu verdad;",
+            "y victoriosa, llegará",
+            "hasta la eternidad."
           ]
         ],
-        "refrain": []
+        "refrain": [  ]
       }
     },
     {
       "num": "523",
-      "title": "¡Santo!",
+      "title": "¡Oh santo Dios!",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "¡Oh santo Dios!, tu tierno amor",
+            "es nuestro fiel consolador.",
+            "Cual Padre amante, tú nos das",
+            "consuelo, alivio y solaz."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Tu hijo fiel, que ya durmió,",
+            "la copa amarga apuró.",
+            "La vida que le diste aquí",
+            "de nuevo la ha devuelto a ti."
+          ],
+          [
+            "Sus obras acabadas ya,",
+            "el galardón le espera allá.",
+            "Y con la hueste angelical",
+            "tendrá la vida eternal."
           ]
         ],
         "refrain": []
@@ -11759,21 +12004,27 @@
     },
     {
       "num": "524",
-      "title": "¡Santo!",
+      "title": "Ven, alma que lloras",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Ven, alma que lloras, ven al Salvador;",
+            "en tus tristes horas dile tu dolor.",
+            "Sí, dile tu duelo, ven tal como estás",
+            "Habla sin recelo, y no llores más."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Penas y tristuras, dilas al Señor;",
+            "crueles desventuras, lágrimas y error;",
+            "en su tierno seno tu descansarás;",
+            "ven, Cristo es bueno, y no llores más."
+          ],
+          [
+            "Guía al extraviado, muéstrale tu luz.",
+            "Lleva al angustiado al manso Jesús.",
+            "La bendita nueva de celeste paz",
+            "al triste, pues, lleva, y no llores más."
           ]
         ],
         "refrain": []
@@ -11781,21 +12032,33 @@
     },
     {
       "num": "525",
-      "title": "¡Santo!",
+      "title": "No habrá más llanto allá",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "No habrá más llanto allá,",
+            "ni angustia, ni dolor.",
+            "Gozoso viviré en el reino del amor.",
+            "Ya no, no habrá más llanto allá."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "No habrá enfermedad,",
+            "penas ni luto allá.",
+            "Salud eterna y rica allí florecerá.",
+            "Ya no, no habrá más llanto allá."
+          ],
+          [
+            "No habrá más muerte allá,",
+            "ni hora de partir.",
+            "La muerte morirá; por siempre he de vivir.",
+            "Ya no, no habrá más llanto allá."
+          ],
+          [
+            "Volviendo a recibir",
+            "los míos que perdí,",
+            "con ellos al estar, me arrobaré allí.",
+            "Ya no, no habrá más llanto allá."
           ]
         ],
         "refrain": []
@@ -11803,65 +12066,116 @@
     },
     {
       "num": "526",
-      "title": "¡Santo!",
+      "title": "Llegaremos al hogar",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Llegaremos al hogar que Jesús preparó,",
+            "donde irán a descansar los que aquí redimió.",
+            "Llamaremos sin temor y a la puerta él estará;",
+            "con ternura y santo amor bienvenida dará."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Vuestro hogar aquí no está, cuanto veis en redor",
+            "a la nada volverá a la voz del Señor.",
+            "Este mundo de maldad con su fausto y su placer,",
+            "con su orgullo y vanidad, lo veréis perecer."
+          ],
+          [
+            "Por el que a la tumba va no lloréis con dolor,",
+            "pues a vida volverá cuando venga el Señor.",
+            "Junto al trono de Jesús a los vuestros hallaréis",
+            "y viviendo en gracia y luz nunca “adiós” les diréis."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Un hogar Dios nos da,",
+          "y con Cristo en su mansión,",
+          "todo fiel vivirá."
+        ]
       }
     },
     {
       "num": "527",
-      "title": "¡Santo!",
+      "title": "¿Para quién será el ay?",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "¿Para quién será el ay,",
+            "olvidada la salud?",
+            "¿Para quién el mal vendrá,",
+            "ya perdida la virtud?"
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "¿Para quién será el dolor,",
+            "junto al ron, vencido ya?",
+            "Amadores del licor,",
+            "en el ron la muerte está!"
+          ],
+          [
+            "¿Para quién rencilla habrá,",
+            "desvergüenzas, destrucción,",
+            "la deshonra, la impiedad?",
+            "Bebedores, vuestras son."
+          ],
+          [
+            "Nunca el vino contempléis,",
+            "ni siquiera en su color,",
+            "que sí fluye con placer,",
+            "como sierpe morderá."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "¿Para quién será el ay?",
+          "¿Para quién será el ay?",
+          "¿Para quién será el ay?",
+          "Para el que bebe alcohol."
+        ]
       }
     },
     {
       "num": "528",
-      "title": "¡Santo!",
+      "title": "Proclamad juventud reformista",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Proclamad, iuventud reformista,",
+            "el glorioso evangelio de amor,",
+            "que transforma del hombre la vida,",
+            "proveyéndole vida mejor.",
+            "Proclamad las verdades gloriosas,",
+            "levantando hasta el cielo la voz;",
+            "proclamad las verdades hermosas",
+            "que descienden del trono de Dios.",
+            "Proclamad las verdades hermosas",
+            "que descienden del trono de Dios."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "¡Adelante con Cristo, adelante!",
+            "¡Adelante, febril juventud!",
+            "Caminad victoriosa y triunfante,",
+            "proclamando a los hombres salud.",
+            "Levantad la bandera imponente,",
+            "la bandera que Dios os legó,",
+            "en el norte, en el sur y el oriente,",
+            "pues la hora del triunfo sonó.",
+            "En el norte, en el sur y el oriente,",
+            "pues la hora del triunfo sonó."
+          ],
+          [
+            "¡Juventud fervorosa, adelante!",
+            "¡Adelante con Cristo Jesús!",
+            "Caminemos en marcha triunfante,",
+            "dando al mundo irredento la luz;",
+            "esa luz redentora que alumbra,",
+            "que irradia con gran plenitud,",
+            "que destruye la horrenda penumbra,",
+            "¡adelante, febril juventud!",
+            "Que destruye la horrenda penumbra,",
+            "¡adelante, febril juventud!"
           ]
         ],
         "refrain": []
@@ -11869,46 +12183,76 @@
     },
     {
       "num": "529",
-      "title": "¡Santo!",
+      "title": "Sigue orando",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Sí las tormentas rugen en ti,",
+            "y en negras sombras vas;",
+            "sí tu alma llena está de pavor",
+            "sigue orando así."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Cuando tristeza llena tu ser",
+            "y atribulado estés,",
+            "dile a tu Padre de tu dolor",
+            "sigue orando así."
+          ],
+          [
+            "Ora confiando, Dios oirá,",
+            "lleno de compasión.",
+            "Pues a sus hijos él cuidará",
+            "Sigue orando así."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Sigue orando",
+          "sí pues te contesta a ti;",
+          "su oferta guardará",
+          "sigue orando confiando así."
+        ]
       }
     },
     {
       "num": "530",
-      "title": "¡Santo!",
+      "title": "Tierra de la Palestina",
       "topic": "Adoración",
       "stanzas": {
         "verses": [
           [
-            "Cantad alegres al Señor,",
-            "mortales todos por doquier;",
-            "servidle siempre con fervor,",
-            "obedecedle con placer."
+            "Tierra bendita y divina",
+            "es la de Palestina,",
+            "donde nació Jesús;",
+            "eres, de las naciones, curbre",
+            "bañada por la lumbre",
+            "que derramó su luz."
           ],
           [
-            "Su pueblo somos: salvará,",
-            "a los que busquen al Señor;",
-            "ninguno de ellos dejará;",
-            "él los ampara con su amor."
+            "Cuenta la historia del pasado",
+            "que en tu seno sagrado",
+            "vivió el Salvador,",
+            "y en tus hermosos olivares,",
+            "habló a los millares",
+            "la palabra de amor."
+          ],
+          [
+            "Quedan en ti testigos mudos,",
+            "que son los viejos muros",
+            "de la Jerusalén;",
+            "viejas paredes destruidas,",
+            "que si tuvieran vida,",
+            "nos hablarían también."
           ]
         ],
-        "refrain": []
+        "refrain": [
+          "Eres la historia inolvidable,",
+          "porque en tu seno se derramó",
+          "la sangre, preciosa sangre,",
+          "del unigénito Hijo de Dios;",
+          "la sangre, preciosa sangre,",
+          "del unigénito Hijo de Dios."
+        ]
       }
     },
     {
